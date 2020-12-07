@@ -8,6 +8,10 @@
         "name": "commands"
     },
     {
+        "execute": ">>> SET TIMES (MST) >>>              Hobo 8pm, Hobo 9pm, Hobo 10pm",
+        "name": "settimes"
+    },
+    {
         "execute": "Find out how to link your Amazon Prime account to Twitch and get a free Twitch Prime subscription: https://bit.ly/2WpXUxB",
         "name": "prime"
     },
@@ -450,10 +454,6 @@
     {
         "execute": "Check out Circuit's merch: https://facebook.com/pg/CircuitAZ/shop/",
         "name": "merch"
-    },
-    {
-        "execute": ">>> SET TIMES (MST) >>>              Mullen 8pm, Deana Sophia 9pm, Michelle Sparks 10pm **** TEST",
-        "name": "settimes"
     },
     {
         "execute": "Subscribe to Juheun on YouTube: https://youtube.com/channel/UCvw0NVU1ElouWrlrKBabv8A",
