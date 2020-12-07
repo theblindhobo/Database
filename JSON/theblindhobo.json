@@ -1,0 +1,14 @@
+[
+    {
+        "execute": "View all !commands here: (currently unavailable)",
+        "name": "help"
+    },
+    {
+        "execute": ">>> SET TIMES (MST) >>>              Me 8pm, Me 9pm, And Me 10pm",
+        "name": "settimes"
+    },
+    {
+        "execute": "View all !commands here: (currently unavailable)",
+        "name": "commands"
+    }
+]

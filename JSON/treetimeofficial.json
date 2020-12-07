@@ -1,0 +1,42 @@
+[
+    {
+        "execute": "View all !commands here: (currently unavailable)",
+        "name": "help"
+    },
+    {
+        "execute": " ",
+        "name": "settimes"
+    },
+    {
+        "execute": "View all !commands here: (currently unavailable)",
+        "name": "commands"
+    },
+    {
+        "execute": "Follow Juheun on Instagram: https://instagram.com/juheunmusic",
+        "name": "juheun"
+    },
+    {
+        "execute": "Follow TreeTimeOfficial on Instagram: https://instagram.com/TreeTimeOfficial",
+        "name": "treetime"
+    },
+    {
+        "execute": "Follow Shaded on Instagram: https://instagram.com/shaded_official",
+        "name": "shaded"
+    },
+    {
+        "execute": "Blaze it! BrainSlug",
+        "name": "smoke"
+    },
+    {
+        "execute": "Smoke up! BrainSlug",
+        "name": "sesh"
+    },
+    {
+        "execute": "Follow TreeTimeOfficial on Instagram: https://instagram.com/TreeTimeOfficial",
+        "name": "instagram"
+    },
+    {
+        "execute": "Follow TreeTimeOfficial on Instagram: https://instagram.com/TreeTimeOfficial",
+        "name": "ig"
+    }
+]
