@@ -452,7 +452,7 @@
         "name": "merch"
     },
     {
-        "execute": ">>> SET TIMES (MST) >>>              Mullen 8pm, Deana Sophia 9pm, Michelle Sparks 10pm **** TEST",
+        "execute": ">>> SET TIMES (MST) >>>              Hybrid Mind 8pm, Deana Sophia 9pm, Michelle Sparks 10pm",
         "name": "settimes"
     },
     {
