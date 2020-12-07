@@ -8,7 +8,7 @@
         "name": "commands"
     },
     {
-        "execute": ">>> SET TIMES (MST) >>>              Hobo 8pm, Yo Yo Yo 9pm, Hobo 10pm",
+        "execute": ">>> SET TIMES (MST) >>>              Juheun 8pm, Juheun 9pm, Hobo 10pm",
         "name": "settimes"
     },
     {
