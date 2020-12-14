@@ -8,7 +8,7 @@
         "name": "commands"
     },
     {
-        "execute": ">>> SET TIMES (MST) >>>              Hybrid Mind 8pm, Xer0 9:30pm, Mullen 11pm",
+        "execute": ">>> SET TIMES (MST) >>>              A 8pm, B 9pm, C 10pm",
         "name": "settimes"
     },
     {
