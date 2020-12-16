@@ -8,7 +8,7 @@
         "name": "commands"
     },
     {
-        "execute": ">>> SET TIMES (MST) >>>              Mullen 8pm, Hybrid Mind 9pm, Above Analog 10pm",
+        "execute": ">>> SET TIMES (MST) >>>              Mullen 8pm, Hybrid Mind 9pm, Above Analog 10pm, ABC 11pm, DEF 12am, EFG 1am",
         "name": "settimes"
     },
     {
