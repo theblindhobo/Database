@@ -8,7 +8,7 @@
         "name": "commands"
     },
     {
-        "execute": ">>> SET TIMES (MST) >>>              Mullen 8pm, Hybrid Mind 9pm, Above Analog 10pm",
+        "execute": ">>> SET TIMES (MST) >>>              VegaJax 4:00pm, Luke Hansen 5:30pm, Deana Sophia 6:30pm, Xer0 8:00pm, Michelle Sparks 9:30pm, Juheun 11:00pm, BALL DROP 1:00am, JIA 1:00am, AARDY 2:00am, Mullen 3:30am, Hybrid Mind 5:00am",
         "name": "settimes"
     },
     {
