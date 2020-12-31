@@ -12,6 +12,10 @@
         "name": "settimes"
     },
     {
+        "execute": "Join our NYE Zoom Meeting: https://us02web.zoom.us/j/88285104316?pwd=eHNnbUZ6YTlXTmlKVkFTdDRzOEdSdz09        Meeting ID: 882 8510 4316        Passcode: NYE2021",
+        "name": "zoom"
+    },
+    {
         "execute": "Find out how to link your Amazon Prime account to Twitch and get a free Twitch Prime subscription: https://bit.ly/2WpXUxB",
         "name": "prime"
     },
