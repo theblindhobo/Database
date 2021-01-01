@@ -8,7 +8,7 @@
         "name": "commands"
     },
     {
-        "execute": ">>> SET TIMES (MST) >>>              Juheun 11:00pm, BALL DROP 1:00am, JIA 1:00am, AARDY 2:00am, Mullen 3:30am, Hybrid Mind 5:00am",
+        "execute": ">>> SET TIMES (MST) >>>              JIA 1:00am, AARDY 2:00am, Mullen 3:30am, Hybrid Mind 5:00am",
         "name": "settimes"
     },
     {
