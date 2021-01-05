@@ -12,15 +12,11 @@
         "name": "settimes"
     },
     {
-        "execute": "Join our NYE Zoom Meeting: https://us02web.zoom.us/j/88285104316?pwd=eHNnbUZ6YTlXTmlKVkFTdDRzOEdSdz09       ----------Meeting ID: 882 8510 4316------------            --------------Passcode: NYE2021---------------",
-        "name": "zoom"
-    },
-    {
         "execute": "Find out how to link your Amazon Prime account to Twitch and get a free Twitch Prime subscription: https://bit.ly/2WpXUxB",
         "name": "prime"
     },
     {
-        "execute": "Hailing from the stark and unyielding deserts of the United States, Juheun emerges from the dust with mind warping, forward thinking techno. Constantly searching for a perfect balance between analog gear and the newest technology, he blurs the lines between the past and the future to create a modern and dynamic sound.",
+        "execute": "FB:https://facebook.com/JuheunMusic IG:https://instagram.com/JuheunMusic TWITTER:https://twitter.com/JuheunMusic SC:https://soundcloud.com/Juheun MixC:https://www.mixcloud.com/Juheun/ BP:https://www.beatport.com/artist/juheun/198721",
         "name": "juheun"
     },
     {
@@ -86,6 +82,22 @@
     {
         "execute": "Follow Juheun on Mixcloud: https://www.mixcloud.com/Juheun/",
         "name": "juheun mixcloud"
+    },
+    {
+        "execute": "FB:https://facebook.com/MichelleSparksOfficial IG:https://instagram.com/mlsparks TWITTER:https://twitter.com/mlsparks SC:https://soundcloud.com/mssparks BP:https://www.beatport.com/artist/michelle-sparks/387623",
+        "name": "michelle"
+    },
+    {
+        "execute": "FB:https://facebook.com/MichelleSparksOfficial IG:https://instagram.com/mlsparks TWITTER:https://twitter.com/mlsparks SC:https://soundcloud.com/mssparks BP:https://www.beatport.com/artist/michelle-sparks/387623",
+        "name": "michelle sparks"
+    },
+    {
+        "execute": "FB:https://facebook.com/MichelleSparksOfficial IG:https://instagram.com/mlsparks TWITTER:https://twitter.com/mlsparks SC:https://soundcloud.com/mssparks BP:https://www.beatport.com/artist/michelle-sparks/387623",
+        "name": "michelle-sparks"
+    },
+    {
+        "execute": "FB:https://facebook.com/MichelleSparksOfficial IG:https://instagram.com/mlsparks TWITTER:https://twitter.com/mlsparks SC:https://soundcloud.com/mssparks BP:https://www.beatport.com/artist/michelle-sparks/387623",
+        "name": "michellesparks"
     },
     {
         "execute": "Michelle Sparks is on Octopus Recordings: https://www.OctopusRecordings.com",
@@ -244,6 +256,14 @@
         "name": "michelle-sparks mixcloud"
     },
     {
+        "execute": "FB:https://facebook.com/itsjorgenmusic IG:https://instagram.com/itsjorgenmusic TWITTER:https://twitter.com/itsjorgenmusic SC:https://soundcloud.com/itsjorgenmusic",
+        "name": "jorgen"
+    },
+    {
+        "execute": "FB:https://facebook.com/itsjorgenmusic IG:https://instagram.com/itsjorgenmusic TWITTER:https://twitter.com/itsjorgenmusic SC:https://soundcloud.com/itsjorgenmusic",
+        "name": "jörgen"
+    },
+    {
         "execute": "Follow Jörgen on Facebook: https://facebook.com/itsjorgenmusic",
         "name": "jorgen facebook"
     },
@@ -284,12 +304,24 @@
         "name": "jörgen soundcloud"
     },
     {
+        "execute": "IG:https://instagram.com/mullen_az",
+        "name": "mullen"
+    },
+    {
         "execute": "Follow Mullen on Instagram: https://instagram.com/mullen_az",
         "name": "mullen instagram"
     },
     {
         "execute": "Follow Mullen on Twitch: https://twitch.tv/mMullen",
         "name": "mullen twitch"
+    },
+    {
+        "execute": "IG:https://instagram.com/_xer0_cool",
+        "name": "xer0"
+    },
+    {
+        "execute": "IG:https://instagram.com/_xer0_cool",
+        "name": "xero"
     },
     {
         "execute": "Follow Xer0 on Instagram: https://instagram.com/_xer0_cool",
@@ -308,7 +340,7 @@
         "name": "xero twitch"
     },
     {
-        "execute": "Circuit is forward thinking, modern, techno and electronic music. Consistently hosting numerous types of underground events throughout Phoenix, Arizona and the southwestern United States, Circuit continues to explore the multi faceted genre of techno to create a unique vibe for those interested in the deeper side of electronic music. Follow our Facebook and Instagram pages for more information on upcoming events.",
+        "execute": "FB:https://facebook.com/CircuitAZ IG:https://instagram.com/CircuitAZ TWITTER:https://twitter.com/CircuitAZ SC:https://soundcloud.com/CircuitAZ TWITCH:https://twitch.tv/CircuitAZ DISCORD:https://discord.gg/8nmGRVw REDDIT:https://reddit.com/r/CircuitAZ MERCH:https://facebook.com/pg/CircuitAZ/shop/",
         "name": "circuit"
     },
     {
