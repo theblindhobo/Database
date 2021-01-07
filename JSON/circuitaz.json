@@ -8,7 +8,7 @@
         "name": "commands"
     },
     {
-        "execute": ">>> SET TIMES (MST) >>>              Will update when ready,",
+        "execute": ">>> SET TIMES (MST) >>>              Mullen 8pm, Jörgen 9pm, CRIT 10pm",
         "name": "settimes"
     },
     {
