@@ -304,8 +304,12 @@
         "name": "jörgen soundcloud"
     },
     {
-        "execute": "IG:https://instagram.com/mullen_az",
+        "execute": "FB:https://www.facebook.com/MullenAZ IG:https://instagram.com/mullen_az",
         "name": "mullen"
+    },
+    {
+        "execute": "Follow Mullen on Facebook: https://www.facebook.com/MullenAZ",
+        "name": "mullen facebook"
     },
     {
         "execute": "Follow Mullen on Instagram: https://instagram.com/mullen_az",
