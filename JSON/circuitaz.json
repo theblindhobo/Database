@@ -320,12 +320,16 @@
         "name": "mullen twitch"
     },
     {
-        "execute": "IG:https://instagram.com/_xer0_cool",
+        "execute": "FB:https://www.facebook.com/Xer0music IG:https://instagram.com/_xer0_cool",
         "name": "xer0"
     },
     {
-        "execute": "IG:https://instagram.com/_xer0_cool",
+        "execute": "FB:https://www.facebook.com/Xer0music IG:https://instagram.com/_xer0_cool",
         "name": "xero"
+    },
+    {
+        "execute": "Follow Xer0 on Facebook: https://www.facebook.com/Xer0music",
+        "name": "xer0 facebook"
     },
     {
         "execute": "Follow Xer0 on Instagram: https://instagram.com/_xer0_cool",
@@ -334,6 +338,10 @@
     {
         "execute": "Follow Xer0 on Twitch: https://twitch.tv/Xer0_Music",
         "name": "xer0 twitch"
+    },
+    {
+        "execute": "Follow Xer0 on Facebook: https://www.facebook.com/Xer0music",
+        "name": "xero facebook"
     },
     {
         "execute": "Follow Xer0 on Instagram: https://instagram.com/_xer0_cool",
