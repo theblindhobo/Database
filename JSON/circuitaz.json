@@ -12,6 +12,10 @@
         "name": "settimes"
     },
     {
+        "execute": "Send us a tip! https://streamlabs.com/circuitaz/v2",
+        "name": "tip"
+    },
+    {
         "execute": "Find out how to link your Amazon Prime account to Twitch and get a free Twitch Prime subscription: https://bit.ly/2WpXUxB",
         "name": "prime"
     },
