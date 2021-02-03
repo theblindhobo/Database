@@ -8,7 +8,7 @@
         "name": "commands"
     },
     {
-        "execute": ">>> SET TIMES (MST) >>>              Xer0 10pm, Jörgen 11pm, Luke Hansen 12am",
+        "execute": ">>> SET TIMES (MST) >>>              Mullen 10pm, Jörgen 11pm, Luke Hansen 12am",
         "name": "settimes"
     },
     {
