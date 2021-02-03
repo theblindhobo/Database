@@ -1,6 +1,6 @@
 [
     {
-        "execute": ">>> SET TIMES (PST) >>>              Indira Paganotto 6pm, Sian (DJ set) 7pm, Speaker Honey 8pm, The Reason Y 9pm, Juheun 10pm",
+        "execute": ">>> SET TIMES (PST) >>>              Indira Paganotto 6pm, Speaker Honey 7pm, Sian (DJ set) 8pm, The Reason Y 9pm, Juheun 10pm",
         "name": "settimes"
     }
 ]
