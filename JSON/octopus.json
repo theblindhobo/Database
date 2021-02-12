@@ -1,6 +1,6 @@
 [
     {
-        "execute": ">>> SET TIMES (PST) >>>              Sian 7pm, JSPR 8pm, Idoru 9pm",
+        "execute": ">>> SET TIMES (PST) >>>              JSPR 7pm, Sian 8pm, Idoru 9pm",
         "name": "settimes"
     }
 ]
