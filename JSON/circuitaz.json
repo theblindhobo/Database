@@ -8,7 +8,7 @@
         "name": "commands"
     },
     {
-        "execute": ">>> SET TIMES (MST) >>>              Xer0 10pm, Jörgen 11pm, Blu 9 12am",
+        "execute": ">>> SET TIMES (MST) >>>              VegaJaxx 10pm, Mullen 11pm, Lunarfluxx 12am",
         "name": "settimes"
     },
     {
