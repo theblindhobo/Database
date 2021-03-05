@@ -1,6 +1,6 @@
 [
     {
-        "execute": ">>> SET TIMES (PST) >>>              Speaker Honey 7pm, Sian 8pm, Idoru 9pm, Sudo 10pm",
+        "execute": ">>> SET TIMES (PST) >>>              Jörgen 7pm, Juheun 8pm, André Winter 9pm, Gaston Zani 10pm",
         "name": "settimes"
     }
 ]
