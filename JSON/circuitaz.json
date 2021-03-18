@@ -8,7 +8,7 @@
         "name": "commands"
     },
     {
-        "execute": ">>> SET TIMES (MST) >>>              Jörgen 10pm, Mullen 11pm, Corvino 12am",
+        "execute": ">>> SET TIMES (MST) >>>              Jörgen 10pm, Mullen 11pm, Corvino 12:30am",
         "name": "settimes"
     },
     {
