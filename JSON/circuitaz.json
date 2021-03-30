@@ -8,7 +8,7 @@
         "name": "commands"
     },
     {
-        "execute": ">>> SET TIMES (MST) >>>              Mullen 10pm, VegaJaxx 11pm, Dustin Holtsberry 12am",
+        "execute": ">>> SET TIMES (MST) >>>              VegaJaxx 8pm, Mullen 9:30pm, Brando 11pm, Xer0 12:30am, Jörgen 2am",
         "name": "settimes"
     },
     {
