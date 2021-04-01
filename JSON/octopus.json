@@ -1,6 +1,11 @@
 [
     {
-        "execute": ">>> SCHEDULE (PST) >>>              Jörgen 6pm, Michelle Sparks 7pm, Juheun 8pm, Drunken Kong 9pm, Melody's Enemy 10pm",
+        "execute": ">>> SCHEDULE (PST) >>>              Speaker Honey 6pm, Idoru 7pm, Sian 8pm, Tyler Johnston 9pm, Sinisa Tamamovic 10pm",
         "name": "settimes"
+    },
+    {
+        "execute": "Come back next week to see what we have in store!",
+        // "execute": ">>> TOMORROW'S SCHEDULE (PST) >>>              Jörgen 6pm, Michelle Sparks 7pm, Juheun 8pm, Drunken Kong 9pm, Melody's Enemy 10pm",
+        "name": "tomorrow"
     }
 ]
