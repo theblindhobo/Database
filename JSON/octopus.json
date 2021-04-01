@@ -5,7 +5,7 @@
     },
     {
         "execute": "Come back next week to see what we have in store!",
-        // "execute": ">>> TOMORROW'S SCHEDULE (PST) >>>              Jörgen 6pm, Michelle Sparks 7pm, Juheun 8pm, Drunken Kong 9pm, Melody's Enemy 10pm",
+        "comment": ">>> TOMORROW'S SCHEDULE (PST) >>>              Jörgen 6pm, Michelle Sparks 7pm, Juheun 8pm, Drunken Kong 9pm, Melody's Enemy 10pm",
         "name": "tomorrow"
     }
 ]
