@@ -4,6 +4,18 @@
         "name": "settimes"
     },
     {
+        "execute": ">>> TUES SCHEDULE (PST) >>>              Speaker Honey 6pm, Idoru 7pm, Sian 8pm, Tyler Johnston 9pm, Sinisa Tamamovic 10pm",
+        "name": "tuesday"
+    },
+    {
+        "execute": ">>> WED SCHEDULE (PST) >>>              Speaker Honey 6pm, Idoru 7pm, Sian 8pm, Tyler Johnston 9pm, Sinisa Tamamovic 10pm",
+        "name": "wednesday"
+    },
+    {
+        "execute": ">>> THUR SCHEDULE (PST) >>>              Speaker Honey 6pm, Idoru 7pm, Sian 8pm, Tyler Johnston 9pm, Sinisa Tamamovic 10pm",
+        "name": "thursday"
+    },
+    {
         "execute": "Come back next week to see what we have in store!",
         "comment": ">>> TOMORROW'S SCHEDULE (PST) >>>              Jörgen 6pm, Michelle Sparks 7pm, Juheun 8pm, Drunken Kong 9pm, Melody's Enemy 10pm",
         "name": "tomorrow"
