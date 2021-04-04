@@ -16,6 +16,10 @@
         "name": "tip"
     },
     {
+        "execute": "/me Please remember to host or share this channel. It's one of the best ways to help us grow on Twitch!",
+        "name": "host"
+    },
+    {
         "execute": "Find out how to link your Amazon Prime account to Twitch and get a free Twitch Prime subscription: https://bit.ly/2WpXUxB",
         "name": "prime"
     },
