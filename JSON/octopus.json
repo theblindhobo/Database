@@ -1,23 +1,23 @@
 [
     {
-        "execute": ">>> SCHEDULE (PST) >>>              The Reason Y 6pm, Idoru 7pm, Sian 8pm, Richey V & Simone Zino 9pm, Aardy 10pm",
+        "execute": ">>> SCHEDULE (PST) >>>              Boho 6pm, Speaker Honey: New Music Rundown 7pm, Kynda Black 9pm, Aardy 10pm",
         "name": "settimes"
     },
     {
-        "execute": ">>> TUES SCHEDULE (PST) >>>              Michelle Sparks: Outside the Box (Hiroko Yamamura) 6pm, Speaker Honey: New Music Rundown 7pm, Juheun: In the Booth 8pm, Luke Andy x Freak On: Back and Forth 9pm, Kane x Rhyot: Demo Workshop 10pm",
+        "execute": ">>> TUES SCHEDULE (PST) >>>              Boho 6pm, Speaker Honey: New Music Rundown 7pm, Kynda Black 9pm, Aardy 10pm",
         "name": "tuesday"
     },
     {
-        "execute": ">>> WED SCHEDULE (PST) >>>              Mullen 6pm, Michelle Sparks 7pm, Juheun 8pm, Zeplin 9pm, Melody's Enemy 10pm",
+        "execute": ">>> WED SCHEDULE (PST) >>>              Jörgen 6pm, Michelle Sparks 7pm, Juheun 8pm, Ilayda 9pm, Melody's Enemy 10pm",
         "name": "wednesday"
     },
     {
-        "execute": ">>> THUR SCHEDULE (PST) >>>              The Reason Y 6pm, Idoru 7pm, Sian 8pm, Richey V & Simone Zino 9pm, Aardy 10pm",
+        "execute": ">>> THUR SCHEDULE (PST) >>>              Tyler Johnston 6pm, Sian 8pm, Idoru 9pm, Rebūke 10pm. >>> 6AM Showcase >>> Insical 11pm, JIA 12am, JNY 1am, Onyx 2am.",
         "name": "thursday"
     },
     {
-        "execute": "Come back next week to see what we have in store!",
-        "comment": ">>> TOMORROW'S SCHEDULE (PST) >>>              The Reason Y 6pm, Idoru 7pm, Sian 8pm, Richey V & Simone Zino 9pm, Aardy 10pm",
+        "comment": "Come back next week to see what we have in store!",
+        "execute": ">>> TOMORROW'S SCHEDULE (PST) >>>              Jörgen 6pm, Michelle Sparks 7pm, Juheun 8pm, Ilayda 9pm, Melody's Enemy 10pm",
         "name": "tomorrow"
     }
 ]
