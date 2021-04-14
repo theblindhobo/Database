@@ -1,6 +1,6 @@
 [
     {
-        "execute": ">>> SCHEDULE (PST) >>>              Boho 6pm, Speaker Honey: New Music Rundown 7pm, Kynda Black 9pm, Aardy 10pm",
+        "execute": ">>> SCHEDULE (PST) >>>              Jörgen 6pm, Michelle Sparks 7pm, Juheun 8pm, Ilayda 9pm, Melody's Enemy 10pm",
         "name": "settimes"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
         "comment": "Come back next week to see what we have in store!",
-        "execute": ">>> TOMORROW'S SCHEDULE (PST) >>>              Jörgen 6pm, Michelle Sparks 7pm, Juheun 8pm, Ilayda 9pm, Melody's Enemy 10pm",
+        "execute": ">>> TOMORROW'S SCHEDULE (PST) >>>              Tyler Johnston 6pm, Sian 8pm, Idoru 9pm, Rebūke 10pm. >>> 6AM Showcase >>> Insical 11pm, JIA 12am, JNY 1am, Onyx 2am.",
         "name": "tomorrow"
     }
 ]
