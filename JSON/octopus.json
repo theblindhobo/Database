@@ -1,6 +1,6 @@
 [
     {
-        "execute": ">>> SCHEDULE (PST) >>>              Jörgen 6pm, Michelle Sparks 7pm, Juheun 8pm, Ilayda 9pm, Melody's Enemy 10pm",
+        "execute": ">>> SCHEDULE (PST) >>>              Tyler Johnston 6pm, Sian 8pm, Idoru 9pm, Rebūke 10pm. >>> 6AM Showcase >>> Insical 11pm, JIA 12am, JNY 1am, Onyx 2am.",
         "name": "settimes"
     },
     {
@@ -16,8 +16,8 @@
         "name": "thursday"
     },
     {
-        "comment": "Come back next week to see what we have in store!",
-        "execute": ">>> TOMORROW'S SCHEDULE (PST) >>>              Tyler Johnston 6pm, Sian 8pm, Idoru 9pm, Rebūke 10pm. >>> 6AM Showcase >>> Insical 11pm, JIA 12am, JNY 1am, Onyx 2am.",
+        "execute": "Come back next week to see what we have in store!",
+        "comment": ">>> TOMORROW'S SCHEDULE (PST) >>>              Tyler Johnston 6pm, Sian 8pm, Idoru 9pm, Rebūke 10pm. >>> 6AM Showcase >>> Insical 11pm, JIA 12am, JNY 1am, Onyx 2am.",
         "name": "tomorrow"
     }
 ]
