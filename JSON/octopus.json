@@ -1,10 +1,10 @@
 [
     {
-        "execute": ">>> SCHEDULE (PST) >>>              Marie Vaunt 4pm, Arash 5pm, Kynda Black 6pm, Speaker Honey: New Music Rundown 7pm",
+        "execute": ">>> SCHEDULE (PST) >>>              Marie Vaunt 4pm, Speaker Honey: New Music Rundown 5pm, The Archer 7pm, Kynda Black 8pm",
         "name": "settimes"
     },
     {
-        "execute": ">>> TUES SCHEDULE (PST) >>>              Marie Vaunt 4pm, Arash 5pm, Kynda Black 6pm, Speaker Honey: New Music Rundown 7pm",
+        "execute": ">>> TUES SCHEDULE (PST) >>>              Marie Vaunt 4pm, Speaker Honey: New Music Rundown 5pm, The Archer 7pm, Kynda Black 8pm",
         "name": "tuesday"
     },
     {
