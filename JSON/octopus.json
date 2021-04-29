@@ -1,6 +1,6 @@
 [
     {
-        "execute": ">>> SCHEDULE (PST) >>>              Jörgen 4pm, Michelle Sparks 5pm, Juheun 6pm, Deana Sophia 7pm, Melody's Enemy 8pm",
+        "execute": ">>> SCHEDULE (PST) >>>              Gregor Tresher from Loveland 4pm, Tyler Johnston: Into the Void 5pm, Alley Kay 7pm, Sian 8pm, Idoru 9pm",
         "name": "settimes"
     },
     {
@@ -16,8 +16,8 @@
         "name": "thursday"
     },
     {
-        "comment": "Come back next week to see what we have in store!",
-        "execute": ">>> TOMORROW'S SCHEDULE (PST) >>>              Gregor Tresher from Loveland 4pm, Tyler Johnston: Into the Void 5pm, Alley Kay 7pm, Sian 8pm, Idoru 9pm",
+        "execute": "Come back next week to see what we have in store!",
+        "comment": ">>> TOMORROW'S SCHEDULE (PST) >>>              Gregor Tresher from Loveland 4pm, Tyler Johnston: Into the Void 5pm, Alley Kay 7pm, Sian 8pm, Idoru 9pm",
         "name": "tomorrow"
     }
 ]
