@@ -1,6 +1,6 @@
 [
     {
-        "execute": ">>> SCHEDULE (PST) >>>              Mullen 4pm, Michelle Sparks 5:30pm, Juheun 7pm, Ignacio Arfeli 8:30pm, Melody's Enemy 9:30pm",
+        "execute": ">>> SCHEDULE (PST) >>>              Christian Smith 4pm, Tyler Johnston: Into the Void 5pm, Sian 7pm, Idoru 8pm",
         "name": "settimes"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
         "comment": "Come back next week to see what we have in store!",
-        "execute": ">>> TOMORROW'S SCHEDULE (PST) >>>              Christian Smith 4pm, Tyler Johnston: Into the Void 5pm, Sian 7pm, Idoru 8pm",
+        "execute": ">>> TOMORROW'S SCHEDULE (PST) >>>              Whistleface Special Guest Takeover 4pm-6pm",
         "name": "tomorrow"
     }
 ]
