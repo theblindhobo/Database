@@ -1,6 +1,6 @@
 [
     {
-        "execute": ">>> SCHEDULE (PST) >>>              Mullen 4pm, Michelle Sparks 5:30pm, Juheun 6:30pm, Ignacio Arfeli 7:30pm, Melody's Enemy 8:30pm",
+        "execute": ">>> SCHEDULE (PST) >>>              Mullen 4pm, Michelle Sparks 5:30pm, Juheun 7pm, Ignacio Arfeli 8:30pm, Melody's Enemy 9:30pm",
         "name": "settimes"
     },
     {
@@ -8,7 +8,7 @@
         "name": "tuesday"
     },
     {
-        "execute": ">>> WED SCHEDULE (PST) >>>              Mullen 4pm, Michelle Sparks 5:30pm, Juheun 6:30pm, Ignacio Arfeli 7:30pm, Melody's Enemy 8:30pm",
+        "execute": ">>> WED SCHEDULE (PST) >>>              Mullen 4pm, Michelle Sparks 5:30pm, Juheun 7pm, Ignacio Arfeli 8:30pm, Melody's Enemy 9:30pm",
         "name": "wednesday"
     },
     {
