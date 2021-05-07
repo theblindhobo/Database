@@ -1,6 +1,6 @@
 [
     {
-        "execute": ">>> SCHEDULE (PST) >>>              Christian Smith 4pm, Tyler Johnston: Into the Void 5pm, Sian 7pm, Idoru 8pm",
+        "execute": ">>> SCHEDULE (PST) >>>              Whistleface Special Guest Takeover 4pm-6pm",
         "name": "settimes"
     },
     {
@@ -21,8 +21,8 @@
         "name": "friday"
     },
     {
-        "comment": "Come back next week to see what we have in store!",
-        "execute": ">>> TOMORROW'S SCHEDULE (PST) >>>              Whistleface Special Guest Takeover 4pm-6pm",
+        "execute": "Come back next week to see what we have in store!",
+        "comment": ">>> TOMORROW'S SCHEDULE (PST) >>>              Whistleface Special Guest Takeover 4pm-6pm",
         "name": "tomorrow"
     }
 ]
