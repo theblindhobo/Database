@@ -1,28 +1,28 @@
 [
     {
-        "execute": ">>> SCHEDULE (PST) >>>              Whistleface Special Guest Takeover 4pm-6pm",
+        "execute": ">>> SCHEDULE (PST) >>>              Marie Vaunt 4pm, Speaker Honey: New Music Rundown 5pm, Rui Tokyo 7pm, Kynda Black 8pm",
         "name": "settimes"
     },
     {
-        "execute": ">>> TUES SCHEDULE (PST) >>>              Marie Vaunt 4pm, Speaker Honey: New Music Rundown 5pm, Nghi 7pm, Kynda Black 8pm",
+        "execute": ">>> TUES SCHEDULE (PST) >>>              Marie Vaunt 4pm, Speaker Honey: New Music Rundown 5pm, Rui Tokyo 7pm, Kynda Black 8pm",
         "name": "tuesday"
     },
     {
-        "execute": ">>> WED SCHEDULE (PST) >>>              Mullen 4pm, Michelle Sparks 5:30pm, Juheun 7pm, Ignacio Arfeli 8:30pm, Melody's Enemy 9:30pm",
+        "execute": ">>> WED SCHEDULE (PST) >>>              Jörgen 4pm, Michelle Sparks 5pm, Juheun 6pm, Raux Raux 7pm, Melody's Enemy 8pm",
         "name": "wednesday"
     },
     {
-        "execute": ">>> THUR SCHEDULE (PST) >>>              Christian Smith 4pm, Tyler Johnston: Into the Void 5pm, Sian 7pm, Idoru 8pm",
+        "execute": ">>> THUR SCHEDULE (PST) >>>              Alley Kay 4pm, Tyler Johnston: Into the Void 5pm, Sian 7pm, Idoru 8pm",
         "name": "thursday"
     },
     {
         "comment": "Nothing scheduled for this Friday!",
-        "execute": ">>> FRI SCHEDULE (PST) >>>              Whistleface Special Guest Takeover 4pm-6pm",
+        "execute": ">>> FRI SCHEDULE (PST) >>>              Eric Allen: Special Guest Takeover",
         "name": "friday"
     },
     {
-        "execute": "Come back next week to see what we have in store!",
-        "comment": ">>> TOMORROW'S SCHEDULE (PST) >>>              Whistleface Special Guest Takeover 4pm-6pm",
+        "comment": "Come back next week to see what we have in store!",
+        "execute": ">>> TOMORROW'S SCHEDULE (PST) >>>              Jörgen 4pm, Michelle Sparks 5pm, Juheun 6pm, Raux Raux 7pm, Melody's Enemy 8pm",
         "name": "tomorrow"
     }
 ]
