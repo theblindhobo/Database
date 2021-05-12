@@ -1,6 +1,6 @@
 [
     {
-        "execute": ">>> SCHEDULE (PST) >>>              Marie Vaunt 4pm, Speaker Honey: New Music Rundown 5pm, Rui Tokyo 7pm, Kynda Black 8pm",
+        "execute": ">>> SCHEDULE (PST) >>>              Jörgen 4pm, Michelle Sparks 5pm, Juheun 6pm, Raux Raux 7pm, Melody's Enemy 8pm",
         "name": "settimes"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
         "comment": "Come back next week to see what we have in store!",
-        "execute": ">>> TOMORROW'S SCHEDULE (PST) >>>              Jörgen 4pm, Michelle Sparks 5pm, Juheun 6pm, Raux Raux 7pm, Melody's Enemy 8pm",
+        "execute": ">>> TOMORROW'S SCHEDULE (PST) >>>              Alley Kay 4pm, Tyler Johnston: Into the Void 5pm, Sian 7pm, Idoru 8pm",
         "name": "tomorrow"
     }
 ]
