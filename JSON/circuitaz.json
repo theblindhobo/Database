@@ -8,7 +8,7 @@
         "name": "commands"
     },
     {
-        "execute": ">>> SET TIMES (PST) >>>              VegaJaxx 8pm, Jörgen 9:30pm, M.I.T.A. 11pm",
+        "execute": ">>> SET TIMES (PST) >>>              Jörgen 8pm, Luke Hansen 9pm, Barbuto 10pm",
         "name": "settimes"
     },
     {
