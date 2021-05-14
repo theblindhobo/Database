@@ -1,6 +1,6 @@
 [
     {
-        "execute": ">>> SCHEDULE (PST) >>>              Alley Kay 4pm, Tyler Johnston: Into the Void 5pm, Sian 7pm, Idoru 8pm",
+        "execute": ">>> SCHEDULE (PST) >>>              Eric Allen: Special Guest Takeover 4pm-6pm",
         "name": "settimes"
     },
     {
@@ -21,8 +21,13 @@
         "name": "friday"
     },
     {
-        "comment": "Come back next week to see what we have in store!",
-        "execute": ">>> TOMORROW'S SCHEDULE (PST) >>>              Eric Allen: Special Guest Takeover 4pm-6pm",
+        "execute": "Nothing scheduled for this Saturday!",
+        "comment": ">>> SAT SCHEDULE (PST) >>>              DJ 4pm, DJ 5pm, DJ 6pm",
+        "name": "saturday"
+    },
+    {
+        "execute": "Come back next week to see what we have in store!",
+        "comment": ">>> TOMORROW'S SCHEDULE (PST) >>>              Eric Allen: Special Guest Takeover 4pm-6pm",
         "name": "tomorrow"
     }
 ]
