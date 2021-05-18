@@ -22,7 +22,7 @@
     },
     {
         "comment": "Nothing scheduled for this Saturday!",
-        "execute": ">>> SAT SCHEDULE (PST) >>>              Mullen 12pm, Jorgen 1pm, Alley Kay 2pm, Kitsch 4pm, Victoria Rawlins 6pm, Sian 8pm, Monsieur Frazier 10pm",
+        "execute": ">>> SAT SCHEDULE (PST) >>>              Mullen 12pm, Jörgen 1pm, Alley Kay 2pm, Kitsch 4pm, Victoria Rawlins 6pm, Sian 8pm, Monsieur Frazier 10pm",
         "name": "saturday"
     },
     {
