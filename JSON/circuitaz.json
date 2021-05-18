@@ -8,7 +8,7 @@
         "name": "commands"
     },
     {
-        "execute": ">>> SET TIMES (PST) >>>              Jörgen 8pm, Luke Hansen 9pm, Barbuto 10pm",
+        "execute": ">>> SET TIMES (PST) >>>              Frank Pellegrino 8pm, Vtone 9pm, Corvino 10pm",
         "name": "settimes"
     },
     {
