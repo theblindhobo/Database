@@ -20,6 +20,14 @@
         "name": "host"
     },
     {
+        "execute": "Please make sure to hit the follow button so you can join us when we go live!",
+        "name": "follow"
+    },
+    {
+        "execute": "Hello Raiders! Welcome to our chat!! If you are new to our channel, please don't hesitate to hit the follow button!",
+        "name": "raiders"
+    },
+    {
         "execute": "Find out how to link your Amazon Prime account to Twitch and get a free Twitch Prime subscription: https://bit.ly/2WpXUxB",
         "name": "prime"
     },
