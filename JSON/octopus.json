@@ -1,6 +1,6 @@
 [
     {
-        "execute": ">>> SCHEDULE (PST) >>>              Mullen 4pm, Michelle Sparks 5:30pm, Juheun 7pm, Tomas Otero 8:30pm, Melody's Enemy 9:30pm",
+        "execute": ">>> SCHEDULE (PST) >>>              Alley Kay (Extended Set) 4pm, Tyler Johnston: Into the Void (Extended Set) 6pm",
         "name": "settimes"
     },
     {
@@ -32,7 +32,7 @@
     },
     {
         "comment": "Come back next week to see what we have in store!",
-        "execute": ">>> TOMORROW'S SCHEDULE (PST) >>>              Alley Kay (Extended Set) 4pm, Tyler Johnston: Into the Void (Extended Set) 6pm",
+        "execute": ">>> TOMORROW'S SCHEDULE (PST) >>>              Tyler Johnston 12pm, Ilayda & Marie Nyx 4pm, Eric Allen 6pm, Hamooniii 8pm, Speaker Honey 10pm",
         "name": "tomorrow"
     }
 ]
