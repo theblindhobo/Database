@@ -1,6 +1,6 @@
 [
     {
-        "execute": ">>> SCHEDULE (PST) >>>              Tyler Johnston 12pm, Ilayda & Marie Nyx 4pm, Eric Allen 6pm, Hamooniii 8pm, Speaker Honey 10pm",
+        "execute": ">>> SCHEDULE (PST) >>>              Mullen 12pm, Jörgen 1pm, Alley Kay 2pm, Kitsch 4pm, Victoria Rawlins 6pm, Sian 8pm, Monsieur Frazier 10pm",
         "name": "settimes"
     },
     {
@@ -32,7 +32,7 @@
     },
     {
         "comment": "Come back next week to see what we have in store!",
-        "execute": ">>> TOMORROW'S SCHEDULE (PST) >>>              Mullen 12pm, Jörgen 1pm, Alley Kay 2pm, Kitsch 4pm, Victoria Rawlins 6pm, Sian 8pm, Monsieur Frazier 10pm",
+        "execute": ">>> TOMORROW'S SCHEDULE (PST) >>>              Ex Libris 12pm, Melody's Enemy 2pm, Idoru 4pm, Michelle Sparks 6pm, Rui Tokyo 8pm, Juheun 10pm",
         "name": "tomorrow"
     }
 ]
