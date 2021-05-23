@@ -1,6 +1,6 @@
 [
     {
-        "execute": ">>> SCHEDULE (PST) >>>              Mullen 12pm, Jörgen 1pm, Alley Kay 2pm, Kitsch 4pm, Victoria Rawlins 6pm, Sian 8pm, Monsieur Frazier 10pm",
+        "execute": ">>> SCHEDULE (PST) >>>              Ex Libris 12pm, Melody's Enemy 2pm, Idoru 4pm, Michelle Sparks 6pm, Rui Tokyo 8pm, Juheun 10pm",
         "name": "settimes"
     },
     {
@@ -31,8 +31,8 @@
         "name": "sunday"
     },
     {
-        "comment": "Come back next week to see what we have in store!",
-        "execute": ">>> TOMORROW'S SCHEDULE (PST) >>>              Ex Libris 12pm, Melody's Enemy 2pm, Idoru 4pm, Michelle Sparks 6pm, Rui Tokyo 8pm, Juheun 10pm",
+        "execute": "Come back next week to see what we have in store!",
+        "comment": ">>> TOMORROW'S SCHEDULE (PST) >>>              Ex Libris 12pm, Melody's Enemy 2pm, Idoru 4pm, Michelle Sparks 6pm, Rui Tokyo 8pm, Juheun 10pm",
         "name": "tomorrow"
     }
 ]
