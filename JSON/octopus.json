@@ -1,38 +1,38 @@
 [
     {
-        "execute": ">>> SCHEDULE (PST) >>>              Ex Libris 12pm, Melody's Enemy 2pm, Idoru 4pm, Michelle Sparks 6pm, Rui Tokyo 8pm, Juheun 10pm",
+        "execute": ">>> SCHEDULE (PST) >>>              Marie Vaunt 4pm, Speaker Honey: New Music Rundown 5pm, Robot Necromancy 7pm, Kynda Black 8pm",
         "name": "settimes"
     },
     {
-        "execute": ">>> TUES SCHEDULE (PST) >>>              Marie Vaunt 4pm, Speaker Honey: New Music Rundown 5pm, Martin Kinrus 7pm, Kynda Black 8pm",
+        "execute": ">>> TUES SCHEDULE (PST) >>>              Marie Vaunt 4pm, Speaker Honey: New Music Rundown 5pm, Robot Necromancy 7pm, Kynda Black 8pm",
         "name": "tuesday"
     },
     {
-        "execute": ">>> WED SCHEDULE (PST) >>>              Mullen 4pm, Michelle Sparks 5pm, Juheun 6pm, Tomas Otero 7pm, Melody's Enemy 8pm",
+        "execute": ">>> WED SCHEDULE (PST) >>>              Mullen 4pm, Michelle Sparks 5pm, Juheun 6pm, Jörgen 7pm, Melody's Enemy 8pm",
         "name": "wednesday"
     },
     {
-        "execute": ">>> THUR SCHEDULE (PST) >>>              Tyler Johnston b2b Alley Kay: Into the Warehouse (Extended Set) 4pm-10pm",
+        "execute": ">>> THUR SCHEDULE (PST) >>>              Idoru 4pm, Alley Kay 5pm, Sian 6pm, Tyler Johnston: Into the Void 7pm, Surprise Set 8pm",
         "name": "thursday"
     },
     {
         "comment": "Nothing scheduled for this Friday!",
-        "execute": ">>> FRI SCHEDULE (PST) >>>              Tyler Johnston 12pm, Ilayda & Marie Nyx 4pm, Eric Allen 6pm, Hamooniii 8pm, Speaker Honey 10pm",
+        "execute": ">>> FRI SCHEDULE (PST) >>>              Eric Allen: The Warmup 4pm-7pm",
         "name": "friday"
     },
     {
         "comment": "Nothing scheduled for this Saturday!",
-        "execute": ">>> SAT SCHEDULE (PST) >>>              Mullen 12pm, Jörgen 1pm, Alley Kay 2pm, Kitsch 4pm, Victoria Rawlins 6pm, Sian 8pm, Monsieur Frazier 10pm",
+        "execute": ">>> SAT SCHEDULE (PST) >>>              Magda Halina: The Vibe 4pm-7pm",
         "name": "saturday"
     },
     {
         "comment": "Nothing scheduled for this Sunday!",
-        "execute": ">>> SUN SCHEDULE (PST) >>>              Ex Libris 12pm, Melody's Enemy 2pm, Idoru 4pm, Michelle Sparks 6pm, Rui Tokyo 8pm, Juheun 10pm",
+        "execute": ">>> SUN SCHEDULE (PST) >>>              Rui Tokyo: The Unwind 4pm-7pm",
         "name": "sunday"
     },
     {
-        "execute": "Come back next week to see what we have in store!",
-        "comment": ">>> TOMORROW'S SCHEDULE (PST) >>>              Ex Libris 12pm, Melody's Enemy 2pm, Idoru 4pm, Michelle Sparks 6pm, Rui Tokyo 8pm, Juheun 10pm",
+        "comment": "Come back next week to see what we have in store!",
+        "execute": ">>> TOMORROW'S SCHEDULE (PST) >>>              Mullen 4pm, Michelle Sparks 5pm, Juheun 6pm, Jörgen 7pm, Melody's Enemy 8pm",
         "name": "tomorrow"
     }
 ]
