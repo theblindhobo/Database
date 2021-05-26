@@ -8,7 +8,7 @@
         "name": "commands"
     },
     {
-        "execute": ">>> SET TIMES (PST) >>>              Jörgen 6pm, Mullen 7pm, Xer0 8pm, Juheun 9pm, Michelle Sparks 10:30pm, Brando 12am",
+        "execute": ">>> SET TIMES (PST) >>>              Jörgen 6pm, Mullen 7pm, Xer0 8pm, Special Guests 9pm, Brando 12am",
         "name": "settimes"
     },
     {
