@@ -8,11 +8,11 @@
         "name": "commands"
     },
     {
-        "execute": ">>> SET TIMES (PST) >>>              Frank Pellegrino 8pm, Vtone 9pm, Corvino 10pm",
+        "execute": ">>> SET TIMES (PST) >>>              Jörgen 6pm, Mullen 7pm, Xer0 8pm, Juheun 9pm, Michelle Sparks 10:30pm, Brando 12am",
         "name": "settimes"
     },
     {
-        "execute": "Send us a tip! https://streamlabs.com/circuitaz/v2",
+        "execute": "If you enjoy this channel, feel free to send us a tip at: https://streamlabs.com/circuitaz/v2",
         "name": "tip"
     },
     {
