@@ -1,6 +1,6 @@
 [
     {
-        "execute": ">>> SCHEDULE (PST) >>>              Mullen 4pm, Michelle Sparks 5pm, Juheun 6pm, Jörgen 7pm, Melody's Enemy 8pm",
+        "execute": ">>> SCHEDULE (PST) >>>              Idoru 4pm, Alley Kay 5pm, Sian 6pm, Tyler Johnston: Into the Void 7pm, Surprise Set 8pm",
         "name": "settimes"
     },
     {
@@ -32,7 +32,7 @@
     },
     {
         "comment": "Come back next week to see what we have in store!",
-        "execute": ">>> TOMORROW'S SCHEDULE (PST) >>>              Idoru 4pm, Alley Kay 5pm, Sian 6pm, Tyler Johnston: Into the Void 7pm, Surprise Set 8pm",
+        "execute": ">>> TOMORROW'S SCHEDULE (PST) >>>              Eric Allen: The Warmup 4pm-7pm",
         "name": "tomorrow"
     }
 ]
