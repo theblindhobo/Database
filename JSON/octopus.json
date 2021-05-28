@@ -1,6 +1,6 @@
 [
     {
-        "execute": ">>> SCHEDULE (PST) >>>              Idoru 4pm, Alley Kay 5pm, Sian 6pm, Tyler Johnston: Into the Void 7pm, Idoru, 8pm, Kitsch 9pm",
+        "execute": ">>> SCHEDULE (PST) >>>              Eric Allen: The Warmup 4pm-7pm",
         "name": "settimes"
     },
     {
@@ -32,7 +32,7 @@
     },
     {
         "comment": "Come back next week to see what we have in store!",
-        "execute": ">>> TOMORROW'S SCHEDULE (PST) >>>              Eric Allen: The Warmup 4pm-7pm",
+        "execute": ">>> TOMORROW'S SCHEDULE (PST) >>>              Magda Halina: The Vibe 4pm-7pm",
         "name": "tomorrow"
     }
 ]
