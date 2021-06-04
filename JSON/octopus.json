@@ -1,6 +1,6 @@
 [
     {
-        "execute": ">>> SCHEDULE (PST) >>>              Marie Vaunt 4pm, Tyler Johnston b2b Alley Kay 5pm-9pm",
+        "execute": ">>> SCHEDULE (PST) >>>              WhistleFace: The Warmup 4pm-7pm",
         "name": "settimes"
     },
     {
@@ -32,7 +32,7 @@
     },
     {
         "comment": "Come back next week to see what we have in store!",
-        "execute": ">>> TOMORROW'S SCHEDULE (PST) >>>              WhistleFace: The Warmup 4pm-7pm",
+        "execute": ">>> TOMORROW'S SCHEDULE (PST) >>>              Alley Kay: The Vibe 4pm-7pm",
         "name": "tomorrow"
     }
 ]
