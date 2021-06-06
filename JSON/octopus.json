@@ -1,6 +1,6 @@
 [
     {
-        "execute": ">>> SCHEDULE (PST) >>>              Alley Kay: The Vibe 4pm-7pm",
+        "execute": ">>> SCHEDULE (PST) >>>              Rui Tokyo: The Unwind 4pm-7pm",
         "name": "settimes"
     },
     {
@@ -31,8 +31,8 @@
         "name": "sunday"
     },
     {
-        "comment": "Come back next week to see what we have in store!",
-        "execute": ">>> TOMORROW'S SCHEDULE (PST) >>>              Rui Tokyo: The Unwind 4pm-7pm",
+        "execute": "Come back next week to see what we have in store!",
+        "comment": ">>> TOMORROW'S SCHEDULE (PST) >>>              Rui Tokyo: The Unwind 4pm-7pm",
         "name": "tomorrow"
     }
 ]
