@@ -4,25 +4,25 @@
         "name": "settimes"
     },
     {
-        "execute": ">>> TUES SCHEDULE (PST) >>>              Boho 4pm, Eric Allen 5pm-7pm, Kynda Black 7pm",
+        "execute": ">>> TUES SCHEDULE (PST) >>>              Ex Libris 4pm, Eric Allen 6pm, Kynda Black 8pm",
         "name": "tuesday"
     },
     {
-        "execute": ">>> WED SCHEDULE (PST) >>>              Jörgen 4pm, Michelle Sparks 5pm, Juheun 6pm, Mullen 7pm, Melody's Enemy 8pm",
+        "execute": ">>> WED SCHEDULE (PST) >>>              Mullen 4pm, Michelle Sparks 5pm, Juheun 6pm, Jörgen 7pm, Melody's Enemy 8pm",
         "name": "wednesday"
     },
     {
-        "execute": ">>> THUR SCHEDULE (PST) >>>              Marie Vaunt 4pm, Tyler Johnston b2b Alley Kay 5pm-9pm",
+        "execute": ">>> THUR SCHEDULE (PST) >>>              Marie Vaunt 4pm, Alley Kay 5pm, Sian 6pm, Tyler Johnston: Into the Void 7pm, Idoru 8pm",
         "name": "thursday"
     },
     {
         "comment": "Nothing scheduled for this Friday!",
-        "execute": ">>> FRI SCHEDULE (PST) >>>              WhistleFace: The Warmup 4pm-7pm",
+        "execute": ">>> FRI SCHEDULE (PST) >>>              Hamooniii: The Warmup 4pm-7pm",
         "name": "friday"
     },
     {
         "comment": "Nothing scheduled for this Saturday!",
-        "execute": ">>> SAT SCHEDULE (PST) >>>              Alley Kay: The Vibe 4pm-7pm",
+        "execute": ">>> SAT SCHEDULE (PST) >>>              Tyler Johnston: The Vibe 4pm-7pm",
         "name": "saturday"
     },
     {
