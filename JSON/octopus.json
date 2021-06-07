@@ -1,6 +1,6 @@
 [
     {
-        "execute": ">>> SCHEDULE (PST) >>>              Rui Tokyo: The Unwind 4pm-7pm",
+        "execute": ">>> SCHEDULE (PST) >>>              Ex Libris 4pm, Eric Allen 6pm, Kynda Black 8pm",
         "name": "settimes"
     },
     {
@@ -31,8 +31,8 @@
         "name": "sunday"
     },
     {
-        "execute": "Come back next week to see what we have in store!",
-        "comment": ">>> TOMORROW'S SCHEDULE (PST) >>>              Rui Tokyo: The Unwind 4pm-7pm",
+        "comment": "Come back next week to see what we have in store!",
+        "execute": ">>> TOMORROW'S SCHEDULE (PST) >>>              Mullen 4pm, Michelle Sparks 5pm, Juheun 6pm, Jörgen 7pm, Melody's Enemy 8pm",
         "name": "tomorrow"
     }
 ]
