@@ -8,7 +8,7 @@
         "name": "commands"
     },
     {
-        "execute": ">>> SET TIMES (PST) >>>              Lunarfluxx 9pm, Miss Powers 10pm, KIVI 11pm",
+        "execute": ">>> SET TIMES (PST) >>>              Miss Powers 9pm, KIVI 10pm, Lunarfluxx 11pm",
         "name": "settimes"
     },
     {
