@@ -1,10 +1,10 @@
 [
     {
-        "execute": ">>> SCHEDULE (PST) >>>              Rui Tokyo: The Unwind 4pm-7pm",
+        "execute": ">>> SCHEDULE (PST) >>>              Ex Libris 4pm, Eric Allen 6pm. [6AM Showcase] Santiaguz 8pm, Derek Nielsen 9pm, Insical 10pm",
         "name": "settimes"
     },
     {
-        "execute": ">>> TUES SCHEDULE (PST) >>>              Ex Libris 4pm, Eric Allen 6pm, Kynda Black 8pm",
+        "execute": ">>> TUES SCHEDULE (PST) >>>              Ex Libris 4pm, Eric Allen 6pm. [6AM Showcase] Santiaguz 8pm, Derek Nielsen 9pm, Insical 10pm",
         "name": "tuesday"
     },
     {
@@ -12,17 +12,17 @@
         "name": "wednesday"
     },
     {
-        "execute": ">>> THUR SCHEDULE (PST) >>>              Marie Vaunt 4pm, Alley Kay 5pm, Sian 6pm, Tyler Johnston: Into the Void 7pm, Idoru 8pm",
+        "execute": ">>> THUR SCHEDULE (PST) >>>              HNTR 4pm, Alley Kay 5pm, Sian 6pm, Tyler Johnston: Into the Void 7pm, Idoru 8pm",
         "name": "thursday"
     },
     {
         "comment": "Nothing scheduled for this Friday!",
-        "execute": ">>> FRI SCHEDULE (PST) >>>              Hamooniii: The Warmup 4pm-7pm",
+        "execute": ">>> FRI SCHEDULE (PST) >>>              Monsieur Frazier: The Warmup 4pm-7pm",
         "name": "friday"
     },
     {
         "comment": "Nothing scheduled for this Saturday!",
-        "execute": ">>> SAT SCHEDULE (PST) >>>              Tyler Johnston: The Vibe 4pm-7pm",
+        "execute": ">>> SAT SCHEDULE (PST) >>>              Alley Kay: The Vibe 4pm-7pm",
         "name": "saturday"
     },
     {
@@ -31,8 +31,8 @@
         "name": "sunday"
     },
     {
-        "execute": "Come back next week to see what we have in store!",
-        "comment": ">>> TOMORROW'S SCHEDULE (PST) >>>              Rui Tokyo: The Unwind 4pm-7pm",
+        "comment": "Come back next week to see what we have in store!",
+        "execute": ">>> TOMORROW'S SCHEDULE (PST) >>>              Mullen 4pm, Michelle Sparks 5pm, Juheun 6pm, Jörgen 7pm, Melody's Enemy 8pm",
         "name": "tomorrow"
     }
 ]
