@@ -17,7 +17,7 @@
     },
     {
         "comment": "Nothing scheduled for this Friday!",
-        "execute": ">>> FRI SCHEDULE (PST) >>>              Monsieur Frazier: The Warmup 4pm-7pm",
+        "execute": ">>> FRI SCHEDULE (PST) >>>              Kitsch: The Warmup 4pm-7pm",
         "name": "friday"
     },
     {
@@ -32,7 +32,7 @@
     },
     {
         "comment": "Come back next week to see what we have in store!",
-        "execute": ">>> TOMORROW'S SCHEDULE (PST) >>>              Monsieur Frazier: The Warmup 4pm-7pm",
+        "execute": ">>> TOMORROW'S SCHEDULE (PST) >>>              Kitsch: The Warmup 4pm-7pm",
         "name": "tomorrow"
     }
 ]
