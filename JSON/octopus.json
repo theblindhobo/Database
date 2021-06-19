@@ -1,6 +1,6 @@
 [
     {
-        "execute": ">>> SCHEDULE (PST) >>>              Kitsch: The Warmup 4pm-7pm",
+        "execute": ">>> SCHEDULE (PST) >>>              Alley Kay: The Vibe 4pm-7pm",
         "name": "settimes"
     },
     {
@@ -32,7 +32,7 @@
     },
     {
         "comment": "Come back next week to see what we have in store!",
-        "execute": ">>> TOMORROW'S SCHEDULE (PST) >>>              Alley Kay: The Vibe 4pm-7pm",
+        "execute": ">>> TOMORROW'S SCHEDULE (PST) >>>              Rui Tokyo: The Unwind 4pm-7pm",
         "name": "tomorrow"
     }
 ]
