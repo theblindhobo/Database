@@ -1,10 +1,10 @@
 [
     {
-        "execute": ">>> SCHEDULE (PST) >>>              Ex Libris 4pm, DJ Sunryse 6pm, Eric Allen 7pm",
+        "execute": ">>> SCHEDULE (PST) >>>              Ex Libris 4pm, DJ SunrYse 6pm, Eric Allen 7pm",
         "name": "settimes"
     },
     {
-        "execute": ">>> TUES SCHEDULE (PST) >>>              Ex Libris 4pm, DJ Sunryse 6pm, Eric Allen 7pm",
+        "execute": ">>> TUES SCHEDULE (PST) >>>              Ex Libris 4pm, DJ SunrYse 6pm, Eric Allen 7pm",
         "name": "tuesday"
     },
     {
