@@ -1,6 +1,6 @@
 [
     {
-        "execute": ">>> SCHEDULE (PST) >>>              Melody's Enemy 4pm, Mullen 5pm, Michelle Sparks 6:30pm, Juheun 7:30pm, Jörgen 9pm",
+        "execute": ">>> SCHEDULE (PST) >>>              Marie Vaunt 4pm, Alley Kay 5pm, Sian 6pm, Tyler Johnston: Into the Void 7pm, Idoru 8pm",
         "name": "settimes"
     },
     {
@@ -32,7 +32,7 @@
     },
     {
         "comment": "Come back next week to see what we have in store!",
-        "execute": ">>> TOMORROW'S SCHEDULE (PST) >>>              Marie Vaunt 4pm, Alley Kay 5pm, Sian 6pm, Tyler Johnston: Into the Void 7pm, Idoru 8pm",
+        "execute": ">>> TOMORROW'S SCHEDULE (PST) >>>              Ex Libris: The Warmup 4pm-7pm",
         "name": "tomorrow"
     }
 ]
