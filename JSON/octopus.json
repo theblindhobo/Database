@@ -1,10 +1,10 @@
 [
     {
-        "execute": ">>> SCHEDULE (PST) >>>              Rui Tokyo: The Unwind 4pm-7pm",
+        "execute": ">>> SCHEDULE (PST) >>>              Ex Libris 4pm, DJ SunrYse 6pm, Eric Allen 7pm, Tomas Otero 9pm",
         "name": "settimes"
     },
     {
-        "execute": ">>> TUES SCHEDULE (PST) >>>              Ex Libris 4pm, DJ SunrYse 6pm, Eric Allen 7pm",
+        "execute": ">>> TUES SCHEDULE (PST) >>>              Ex Libris 4pm, DJ SunrYse 6pm, Eric Allen 7pm, Tomas Otero 9pm",
         "name": "tuesday"
     },
     {
@@ -16,23 +16,23 @@
         "name": "thursday"
     },
     {
-        "comment": "Nothing scheduled for this Friday!",
-        "execute": ">>> FRI SCHEDULE (PST) >>>              Ex Libris: The Warmup 4pm-7pm",
+        "execute": "Nothing scheduled for this Friday!",
+        "comment": ">>> FRI SCHEDULE (PST) >>>              Ex Libris: The Warmup 4pm-7pm",
         "name": "friday"
     },
     {
-        "comment": "Nothing scheduled for this Saturday!",
-        "execute": ">>> SAT SCHEDULE (PST) >>>              Magda Halina: The Vibe 4pm-7pm",
+        "execute": "Nothing scheduled for this Saturday!",
+        "comment": ">>> SAT SCHEDULE (PST) >>>              Magda Halina: The Vibe 4pm-7pm",
         "name": "saturday"
     },
     {
-        "comment": "Nothing scheduled for this Sunday!",
-        "execute": ">>> SUN SCHEDULE (PST) >>>              Rui Tokyo: The Unwind 4pm-7pm",
+        "execute": "Nothing scheduled for this Sunday!",
+        "comment": ">>> SUN SCHEDULE (PST) >>>              Rui Tokyo: The Unwind 4pm-7pm",
         "name": "sunday"
     },
     {
         "execute": "Come back next week to see what we have in store!",
-        "comment": ">>> TOMORROW'S SCHEDULE (PST) >>>              Rui Tokyo: The Unwind 4pm-7pm",
+        "execute": ">>> TOMORROW'S SCHEDULE (PST) >>>              Melody's Enemy 4pm, Mullen 5pm, Michelle Sparks 6pm, Juheun 7pm, Jörgen 8pm",
         "name": "tomorrow"
     }
 ]
