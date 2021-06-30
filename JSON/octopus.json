@@ -1,6 +1,6 @@
 [
     {
-        "execute": ">>> SCHEDULE (PST) >>>              Ex Libris 4pm, DJ SunrYse 6pm, Eric Allen 7pm, Tomas Otero 9pm",
+        "execute": ">>> SCHEDULE (PST) >>>              Melody's Enemy 4pm, Mullen 5pm, Michelle Sparks 6pm, Juheun 7pm, Jörgen 8pm",
         "name": "settimes"
     },
     {
@@ -32,7 +32,7 @@
     },
     {
         "execute": "Come back next week to see what we have in store!",
-        "execute": ">>> TOMORROW'S SCHEDULE (PST) >>>              Melody's Enemy 4pm, Mullen 5pm, Michelle Sparks 6pm, Juheun 7pm, Jörgen 8pm",
+        "execute": ">>> TOMORROW'S SCHEDULE (PST) >>>              Marie Vaunt 4pm, Alley Kay 5pm, Sian 6pm, Tyler Johnston: Into the Void 7pm, Idoru 8pm",
         "name": "tomorrow"
     }
 ]
