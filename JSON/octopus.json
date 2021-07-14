@@ -1,6 +1,6 @@
 [
     {
-        "execute": ">>> SCHEDULE (PT) >>>              Ex Libris 4pm, DJ SunrYse 6pm, Silver & Gold 7pm, Liona Stone 9pm",
+        "execute": ">>> SCHEDULE (PT) >>>              Melody's Enemy 4pm, Mullen 5pm, Zorza 6pm, Juheun 7pm, Whistleface 8pm",
         "name": "settimes"
     },
     {
@@ -12,7 +12,7 @@
         "name": "wednesday"
     },
     {
-        "execute": ">>> THUR SCHEDULE (PT) >>>              Marie Vaunt 4pm, Alley Kay 5pm, Sian 6pm, Tyler Johnston: Into the Void 7pm, Idoru 8pm",
+        "execute": ">>> THUR SCHEDULE (PT) >>>              Tyler Johnston b2b Alley Kay 4pm-7pm, Idoru 8pm",
         "name": "thursday"
     },
     {
@@ -32,7 +32,7 @@
     },
     {
         "comment": "Come back next week to see what we have in store!",
-        "execute": ">>> TOMORROW'S SCHEDULE (PT) >>>              Melody's Enemy 4pm, Mullen 5pm, Zzzorza 6pm, Juheun 7pm, Whistleface 8pm",
+        "execute": ">>> TOMORROW'S SCHEDULE (PT) >>>              Tyler Johnston b2b Alley Kay 4pm-7pm, Idoru 8pm",
         "name": "tomorrow"
     }
 ]
