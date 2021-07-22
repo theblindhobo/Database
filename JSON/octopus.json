@@ -1,6 +1,6 @@
 [
     {
-        "execute": ">>> SCHEDULE (PT) >>>              Melody's Enemy 4pm, Mullen 5pm, Juheun 6pm, Jörgen 7pm, Mazuu 8pm",
+        "execute": ">>> SCHEDULE (PT) >>>              Marie Vaunt 4pm, Alley Kay 5pm, Sian 6pm, Tyler Johnston: Into the Void 7pm, Idoru 8pm",
         "name": "settimes"
     },
     {
@@ -31,8 +31,8 @@
         "name": "sunday"
     },
     {
-        "comment": "Come back next week to see what we have in store!",
-        "execute": ">>> TOMORROW'S SCHEDULE (PT) >>>              Marie Vaunt 4pm, Alley Kay 5pm, Sian 6pm, Tyler Johnston: Into the Void 7pm, Idoru 8pm",
+        "execute": "Come back next week to see what we have in store!",
+        "comment": ">>> TOMORROW'S SCHEDULE (PT) >>>              Marie Vaunt 4pm, Alley Kay 5pm, Sian 6pm, Tyler Johnston: Into the Void 7pm, Idoru 8pm",
         "name": "tomorrow"
     }
 ]
