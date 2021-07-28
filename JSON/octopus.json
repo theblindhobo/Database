@@ -1,6 +1,6 @@
 [
     {
-        "execute": ">>> SCHEDULE (PT) >>>              Ex Libris 4pm, DJ SunrYse 6pm, Eric Allen 7pm, Silver & Gold 9pm",
+        "execute": ">>> SCHEDULE (PT) >>>              Melody's Enemy 4pm, Mullen 5pm, Juheun 6pm, Jörgen 7pm, Magda Halina 8pm",
         "name": "settimes"
     },
     {
@@ -32,7 +32,7 @@
     },
     {
         "comment": "Come back next week to see what we have in store!",
-        "execute": ">>> TOMORROW'S SCHEDULE (PT) >>>              Melody's Enemy 4pm, Mullen 5pm, Juheun 6pm, Jörgen 7pm, Magda Halina 8pm",
+        "execute": ">>> TOMORROW'S SCHEDULE (PT) >>>              Marie Vaunt 4pm, Alley Kay 5pm, Sian 6pm, Tyler Johnston: Into the Void 7pm, Idoru 8pm",
         "name": "tomorrow"
     }
 ]
