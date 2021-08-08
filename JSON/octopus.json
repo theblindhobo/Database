@@ -1,6 +1,6 @@
 [
     {
-        "execute": ">>> SCHEDULE (PT) >>>              Alley Kay b2b Tyler Johnston 4pm-7pm, Sian 7pm, Idoru 8pm",
+        "execute": ">>> SCHEDULE (PT) >>>              Ex Libris 4pm, DJ SunrYse 5pm, Mullen 6pm, Juheun 7pm, Eric Allen 8pm, Silver & Gold 9pm",
         "name": "settimes"
     },
     {
@@ -13,7 +13,7 @@
         "name": "wednesday"
     },
     {
-        "execute": ">>> THUR SCHEDULE (PT) >>>              Alley Kay b2b Tyler Johnston 4pm-6pm, Sian 6pm, Tyler Johnston: Into the Void 7pm, Idoru 8pm",
+        "execute": ">>> THUR SCHEDULE (PT) >>>              Marie Vaunt 4pm, Alley Kay 5pm, Sian 6pm, Tyler Johnston: Into the Void 7pm, Idoru 8pm, Speaker Honey 9pm",
         "name": "thursday"
     },
     {
