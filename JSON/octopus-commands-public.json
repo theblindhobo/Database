@@ -134,5 +134,101 @@
     {
         "execute": "Check out Idoru's Hysteresis EP: https://manta.fanlink.to/IdoruHysteresis",
         "name": "idoru"
+    },
+    {
+        "execute": "WEB:https://OctopusRecordings.com FB:https://facebook.com/OctopusRecordings IG:https://instagram.com/OctopusRecordings TWITTER:https://twitter.com/OctopusRecords SC:https://soundcloud.com/OctopusRecordings MixC:https://mixcloud.com/OctopusRecordings DISCORD:https://tinyurl.com/octopusdiscord YT:https://bit.ly/SubscribeOctopus MERCH:https://OctopusRecordings.com/shop BP:https://beatport.com/label/Octopus-Records/5281",
+        "name": "octopus"
+    },
+    {
+        "execute": "WEB:https://DJSian.com FB:https://facebook.com/SianOfficial IG:https://instagram.com/SianOfficial TWITTER:https://twitter.com/DJSianOfficial SC:https://soundcloud.com/DJSian APPLE:https://music.apple.com/artist/Sian/82446504 BEATPORT:https://beatport.com/artist/Sian/10794",
+        "name": "sian"
+    },
+    {
+        "execute": "Check out Sian's website: https://DJSian.com/",
+        "name": "sian website"
+    },
+    {
+        "execute": "Follow Octopus Recordings on Facebook: https://facebook.com/OctopusRecordings/",
+        "name": "fb"
+    },
+    {
+        "execute": "Follow Sian on Facebook: https://facebook.com/SianOfficial/",
+        "name": "sian facebook"
+    },
+    {
+        "execute": "Follow Sian on Facebook: https://facebook.com/SianOfficial/",
+        "name": "sian fb"
+    },
+    {
+        "execute": "Follow Sian on Twitter: https://twitter.com/DJSianOfficial/",
+        "name": "sian twitter"
+    },
+    {
+        "execute": "Follow Octopus Recordings on Instagram: https://instagram.com/OctopusRecordings/",
+        "name": "ig"
+    },
+    {
+        "execute": "Follow Sian on Instagram: https://instagram.com/SianOfficial/",
+        "name": "sian instagram"
+    },
+    {
+        "execute": "Follow Sian on Instagram: https://instagram.com/SianOfficial/",
+        "name": "sian ig"
+    },
+    {
+        "execute": "Subscribe to Octopus Recordings' YouTube channel: https://bit.ly/SubscribeOctopus",
+        "name": "yt"
+    },
+    {
+        "execute": "See all of the Octopus Recordings artists: https://OctopusRecordings.com/artists",
+        "name": "artists"
+    },
+    {
+        "execute": "Follow Octopus Recordings on SoundCloud: https://soundcloud.com/OctopusRecordings",
+        "name": "sc"
+    },
+    {
+        "execute": "Follow Sian on SoundCloud: https://soundcloud.com/DJSian",
+        "name": "sian soundcloud"
+    },
+    {
+        "execute": "Follow Sian on SoundCloud: https://soundcloud.com/DJSian",
+        "name": "sian sc"
+    },
+    {
+        "execute": "Follow Sian on Beatport: https://beatport.com/artist/Sian/10794",
+        "name": "sian beatport"
+    },
+    {
+        "execute": "Follow Sian on Apple Music: https://music.apple.com/artist/Sian/82446504",
+        "name": "sian apple music"
+    },
+    {
+        "execute": "Follow Sian on Apple Music: https://music.apple.com/artist/Sian/82446504",
+        "name": "sian itunes"
+    },
+    {
+        "execute": "Check out Sian's Hot Trax Spotify playlist: https://open.spotify.com/user/sianofficial/playlist/1o0DfxExESryHFu8JxAfvV",
+        "name": "spotify"
+    },
+    {
+        "execute": "If you would like to make a donation to our channel, send it to: https://streamlabs.com/djsianofficial/v2",
+        "name": "tip"
+    },
+    {
+        "execute": "Check out Sian's Hot Trax Spotify playlist: https://open.spotify.com/user/sianofficial/playlist/1o0DfxExESryHFu8JxAfvV",
+        "name": "song"
+    },
+    {
+        "execute": "Submit your demo to Octopus Recordings in our official Discord server.  https://discord.gg/VmRM4jKawj",
+        "name": "demo"
+    },
+    {
+        "execute": "6AM discord: https://discord.gg/ZqFxHEpr5U",
+        "name": "6am discord"
+    },
+    {
+        "execute": "Follow our tattoo artist, Josh Ojeda on Instagram: https://www.instagram.com/joshojeda/",
+        "name": "josh"
     }
 ]
