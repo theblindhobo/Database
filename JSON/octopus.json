@@ -1,10 +1,10 @@
 [
     {
-        "execute": ">>> SCHEDULE (PT) >>>              Ex Libris 4pm, DJ SunrYse 5pm, Idoru 6pm, Juheun 7pm, Jörgen 8pm, Silver & Gold 9pm",
+        "execute": ">>> SCHEDULE (PT) >>>              Ex Libris 4pm, DJ SunrYse 5pm, Idoru 6pm, Jörgen 7:30pm, Silver & Gold 9pm",
         "name": "settimes"
     },
     {
-        "execute": ">>> TUES SCHEDULE (PT) >>>              Ex Libris 4pm, DJ SunrYse 5pm, Idoru 6pm, Juheun 7pm, Jörgen 8pm, Silver & Gold 9pm",
+        "execute": ">>> TUES SCHEDULE (PT) >>>              Ex Libris 4pm, DJ SunrYse 5pm, Idoru 6pm, Jörgen 7:30pm, Silver & Gold 9pm",
         "name": "tuesday"
     },
     {
