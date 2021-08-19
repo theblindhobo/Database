@@ -234,5 +234,9 @@
     {
         "execute": "Follow our tattoo artist, Josh Ojeda on Instagram: https://www.instagram.com/joshojeda/",
         "name": "josh"
+    },
+    {
+        "execute": "If you're a tier 3 sub and you see Sian or an Octopus show coming to your city, send @djsianofficial a direct message to claim your guestlist spot!",
+        "name": "tier3"
     }
 ]
