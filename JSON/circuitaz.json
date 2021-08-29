@@ -8,7 +8,7 @@
         "name": "commands"
     },
     {
-        "execute": ">>> SET TIMES (PT) >>>              Jörgen 9pm, Mullen 10pm-12am",
+        "execute": ">>> SET TIMES (PT) >>>              Jörgen 9pm, Mullen 10pm, Xer0 11pm",
         "name": "settimes"
     },
     {
