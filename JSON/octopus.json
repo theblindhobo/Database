@@ -1,10 +1,10 @@
 [
     {
-        "execute": ">>> SCHEDULE (PT) >>>              Melody's Enemy 4pm, Alley Kay 5pm, Sian 6pm, Tyler Johnston: Into the Void 7pm, Idoru 8pm, Magda Halina 9pm",
+        "execute": ">>> SCHEDULE (PT) >>>              Ex Libris 4pm, Jörgen 6pm, Mazuu 7pm, Eric Allen 8pm, Silver & Gold 9pm",
         "name": "settimes"
     },
     {
-        "execute": ">>> TUES SCHEDULE (PT) >>>              Ex Libris 4pm, Jörgen 5pm, Idoru 6pm, Mazuu 7pm, Mullen 8pm, Silver & Gold 9pm",
+        "execute": ">>> TUES SCHEDULE (PT) >>>              Ex Libris 4pm, Jörgen 6pm, Mazuu 7pm, Eric Allen 8pm, Silver & Gold 9pm",
         "name": "tuesday"
     },
     {
@@ -13,7 +13,7 @@
         "name": "wednesday"
     },
     {
-        "execute": ">>> THUR SCHEDULE (PT) >>>              Melody's Enemy 4pm, Alley Kay 5pm, Sian 6pm, Tyler Johnston: Into the Void 7pm, Idoru 8pm, Magda Halina 9pm",
+        "execute": ">>> THUR SCHEDULE (PT) >>>              Melody's Enemy 4pm, Alley Kay 5pm, Speaker Honey 6pm, Tyler Johnston: Into the Void 7pm, Mazuu 8pm",
         "name": "thursday"
     },
     {
