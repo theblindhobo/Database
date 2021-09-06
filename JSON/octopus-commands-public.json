@@ -218,5 +218,9 @@
     {
         "execute": "If you're a tier 3 sub and you see Sian or an Octopus show coming to your city, send @djsianofficial a direct message to claim your guestlist spot!",
         "name": "tier3"
+    },
+    {
+        "execute": "SIAN plays Nocturnal Wonderland - Sept 18th. Secure your tickets: https://insom.co/nocturnal",
+        "name": "nocturnal"
     }
 ]
