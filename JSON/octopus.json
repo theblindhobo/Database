@@ -1,6 +1,6 @@
 [
     {
-        "execute": ">>> SCHEDULE (PT) >>>              Ex Libris 4pm, Speaker Honey 5pm, Mazuu 6pm, Eric Allen 7pm, Silver & Gold 8pm",
+        "execute": ">>> SCHEDULE (PT) >>>              Ex Libris 4pm, Speaker Honey 5pm, Eric Allen 7pm, Silver & Gold 8pm, Mazuu 9pm",
         "name": "settimes"
     },
     {
