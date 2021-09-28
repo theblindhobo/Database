@@ -1,10 +1,10 @@
 [
     {
-        "execute": ">>> SCHEDULE (PT) >>>              Alley Kay 4pm, Sian 6pm, Tyler Johnston: Into the Void 7pm, Idoru 8pm",
+        "execute": ">>> SCHEDULE (PT) >>>              Ex Libris 4pm, Eric Allen 6pm, Silver & Gold 8pm, Mazuu 9pm",
         "name": "settimes"
     },
     {
-        "execute": ">>> TUES SCHEDULE (PT) >>>              Ex Libris 4pm, Speaker Honey 5pm, Eric Allen 6pm, Silver & Gold 8pm, Mazuu 9pm",
+        "execute": ">>> TUES SCHEDULE (PT) >>>              Ex Libris 4pm, Eric Allen 6pm, Silver & Gold 8pm, Mazuu 9pm",
         "name": "tuesday"
     },
     {
