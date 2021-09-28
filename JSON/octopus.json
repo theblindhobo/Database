@@ -1,39 +1,37 @@
 [
     {
-        "execute": ">>> SCHEDULE (PT) >>>              Ex Libris 4pm, Eric Allen 6pm, Silver & Gold 8pm, Mazuu 9pm",
-        "name": "settimes"
+        "execute": "Nothing scheduled for this Monday!",
+        "comment": ">>> MON SCHEDULE (PT) >>>              x, x, x, x, x",
+        "name": "monday"
     },
     {
+        "comment": "Nothing scheduled for this Tuesday!",
         "execute": ">>> TUES SCHEDULE (PT) >>>              Ex Libris 4pm, Eric Allen 6pm, Silver & Gold 8pm, Mazuu 9pm",
         "name": "tuesday"
     },
     {
         "execute": "Nothing scheduled for this Wednesday!",
-        "comment": ">>> WED SCHEDULE (PT) >>>              Melody's Enemy 4pm, Mullen 5pm, Juheun 6pm, Jörgen 7pm, Magda Halina 8pm",
+        "comment": ">>> WED SCHEDULE (PT) >>>              x, x, x, x, x",
         "name": "wednesday"
     },
     {
+        "comment": "Nothing scheduled for this Thursday!",
         "execute": ">>> THUR SCHEDULE (PT) >>>              DJ SunrYse 4pm, Alley Kay 5pm, Sian 6pm, Tyler Johnston: Into the Void 7pm, Idoru 8pm",
         "name": "thursday"
     },
     {
         "execute": "Nothing scheduled for this Friday!",
-        "comment": ">>> FRI SCHEDULE (PT) >>>              Ex Libris: The Warmup 4pm-7pm",
+        "comment": ">>> FRI SCHEDULE (PT) >>>              x, x, x, x, x",
         "name": "friday"
     },
     {
         "execute": "Nothing scheduled for this Saturday!",
-        "comment": ">>> SAT SCHEDULE (PT) >>>              Magda Halina: The Vibe 4pm-7pm",
+        "comment": ">>> SAT SCHEDULE (PT) >>>              x, x, x, x, x",
         "name": "saturday"
     },
     {
         "execute": "Nothing scheduled for this Sunday!",
-        "comment": ">>> SUN SCHEDULE (PT) >>>              Rui Tokyo: The Unwind 4pm-7pm",
+        "comment": ">>> SUN SCHEDULE (PT) >>>              x, x, x, x, x",
         "name": "sunday"
-    },
-    {
-        "comment": "Come back next week to see what we have in store!",
-        "comment": ">>> TOMORROW'S SCHEDULE (PT) >>>              Marie Vaunt 4pm, Alley Kay 5pm, Sian 6pm, Tyler Johnston: Into the Void 7pm, Idoru 8pm",
-        "name": "tomorrow"
     }
 ]
