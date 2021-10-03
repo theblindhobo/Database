@@ -48,7 +48,7 @@
         "name": "merch"
     },
     {
-        "execute": "Post our stream to your social media and tag Sian / Octopus and we will choose a winner for some Tees and Hoodies " + ${emotes.octopus},
+        "execute": "Post our stream to your social media and tag Sian / Octopus and we will choose a winner for some Tees and Hoodies " + emotes.octopus + "",
         "name": "tag"
     },
     {
