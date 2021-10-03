@@ -48,7 +48,7 @@
         "name": "merch"
     },
     {
-        "execute": "Post our stream to your social media and tag Sian / Octopus and we will choose a winner for some Tees and Hoodies".$emotes.octopus,
+        "execute": "Post our stream to your social media and tag Sian / Octopus and we will choose a winner for some Tees and Hoodies",
         "name": "tag"
     },
     {
@@ -60,11 +60,11 @@
         "name": "prime"
     },
     {
-        "execute": "/me djsianSmileywhite djsianSmileywhite Sooo moist!!! djsianSmileywhite djsianSmileywhite",
+        "execute": "/me Sooo moist!!!",
         "name": "moist"
     },
     {
-        "execute": "/me Chat, please remember to host or share this channel! djsianSmileywhite",
+        "execute": "/me Chat, please remember to host or share this channel!",
         "name": "host"
     },
     {
@@ -72,11 +72,11 @@
         "name": "residency"
     },
     {
-        "execute": "djsianOctopus Welcome to the Octopus stream!! It's about to get MOIST up in here! djsianSmileywhite",
+        "execute": "Welcome to the Octopus stream!! It's about to get MOIST up in here!",
         "name": "newcomers"
     },
     {
-        "execute": "/me This song has the Octopus community all moist! djsianSmileywhite",
+        "execute": "/me This song has the Octopus community all moist!",
         "name": "feels"
     },
     {
@@ -84,31 +84,31 @@
         "name": "sub"
     },
     {
-        "execute": "text Sian at +1 (310) 421-0740 djsianSmileywhite",
+        "execute": "text Sian at +1 (310) 421-0740",
         "name": "txt"
     },
     {
-        "execute": "text Sian at +1 (310) 421-0740 djsianSmileywhite djsianSmileywhite",
+        "execute": "text Sian at +1 (310) 421-0740",
         "name": "text"
     },
     {
-        "execute": "Hello Raiders! Welcome to our chat!! If you are new to our channel, please hit the follow button and watch us when we go live! djsianSmileywhite",
+        "execute": "Hello Raiders! TombRaid TombRaid Welcome to our chat!! If you are new to our channel, please hit the follow button and watch us when we go live!",
         "name": "raiders"
     },
     {
-        "execute": "Please make sure to hit the follow button so you can join us when we go live! djsianSmileywhite",
+        "execute": "Please make sure to hit the follow button so you can join us when we go live!",
         "name": "follow"
     },
     {
-        "execute": "ADS.. Twitch makes you watch them unless you subscribe. When you sub, you'll be able to use our fun emotes djsianSmileywhite djsianCalavera djsianHelp djsianDiamond djsianOctopus djsianSkeletons",
+        "execute": "ADS.. Twitch makes you watch them unless you subscribe. When you sub, you'll be able to use our fun emotes!!",
         "name": "ad"
     },
     {
-        "execute": "ADS.. Twitch makes you watch them unless you subscribe. When you sub, you'll be able to use our fun emotes djsianSmileywhite djsianCalavera djsianHelp djsianDiamond djsianOctopus djsianSkeletons ",
+        "execute": "ADS.. Twitch makes you watch them unless you subscribe. When you sub, you'll be able to use our fun emotes!!",
         "name": "ads"
     },
     {
-        "execute": "Details on the Denver show coming soon",
+        "execute": "Denver! Nov 5th @ Bar Standard. https://www.instagram.com/p/CUgFYU_riuF/",
         "name": "denver"
     },
     {
