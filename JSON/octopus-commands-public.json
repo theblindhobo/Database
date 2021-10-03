@@ -48,7 +48,7 @@
         "name": "merch"
     },
     {
-        "execute": "Post our stream to your social media and tag Sian / Octopus and we will choose a winner for some Tees and Hoodies djsianSmileywhite djsianOctopus djsianHelp",
+        "execute": "Post our stream to your social media and tag Sian / Octopus and we will choose a winner for some Tees and Hoodies djsianSmileywhite",
         "name": "tag"
     },
     {
@@ -60,7 +60,7 @@
         "name": "prime"
     },
     {
-        "execute": "/me Sooo moist!!!",
+        "execute": "/me djsianSmileywhite Sooo moist!!! djsianSmileywhite",
         "name": "moist"
     },
     {
@@ -72,7 +72,7 @@
         "name": "residency"
     },
     {
-        "execute": "Welcome to the Octopus stream!! It's about to get MOIST up in here!",
+        "execute": "Welcome to the Octopus stream!! djsianOctopus It's about to get MOIST up in here!",
         "name": "newcomers"
     },
     {
@@ -84,11 +84,11 @@
         "name": "sub"
     },
     {
-        "execute": "text Sian at +1 (310) 421-0740",
+        "execute": "text Sian at +1 (310) 421-0740 djsianSmileywhite",
         "name": "txt"
     },
     {
-        "execute": "text Sian at +1 (310) 421-0740",
+        "execute": "text Sian at +1 (310) 421-0740 djsianSmileywhite",
         "name": "text"
     },
     {
@@ -106,10 +106,6 @@
     {
         "execute": "ADS.. Twitch makes you watch them unless you subscribe. When you sub, you'll be able to use our fun emotes!!",
         "name": "ads"
-    },
-    {
-        "execute": "Denver! Nov 5th @ Bar Standard. https://www.instagram.com/p/CUgFYU_riuF/",
-        "name": "denver"
     },
     {
         "execute": "Check out Idoru's Hysteresis EP: https://manta.fanlink.to/IdoruHysteresis",
@@ -234,5 +230,9 @@
     {
         "execute": "New party series coming to Los Angeles - Oct 15th: https://ra.co/events/1465985",
         "name": "baroque"
+    },
+    {
+        "execute": "Denver! Nov 5th @ Bar Standard. Tickets on sale now: https://bit.ly/FirstFridaysxSian",
+        "name": "denver"
     }
 ]
