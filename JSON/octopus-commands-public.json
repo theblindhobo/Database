@@ -1,5 +1,4 @@
 [
-"""
     {
         "execute": "List of commands: https://tinyurl.com/OctopusBotCommands",
         "name": "commands"
@@ -49,7 +48,7 @@
         "name": "merch"
     },
     {
-        "execute": "Post our stream to your social media and tag Sian / Octopus and we will choose a winner for some Tees and Hoodies " + ${emotes.octopus},
+        "execute": "Post our stream to your social media and tag Sian / Octopus and we will choose a winner for some Tees and Hoodies".$emotes.octopus,
         "name": "tag"
     },
     {
@@ -236,5 +235,4 @@
         "execute": "New party series coming to Los Angeles - Oct 15th: https://ra.co/events/1465985",
         "name": "baroque"
     }
-"""
 ]
