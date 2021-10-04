@@ -6,7 +6,7 @@
     },
     {
         "name": "tuesday",
-        "execute": "Tuesdays's lineup: Rui Tokyo",
+        "execute": "Tuesday's lineup: Rui Tokyo",
         "comment": "Nothing scheduled for this Tuesday!"
     },
     {
@@ -21,7 +21,7 @@
     },
     {
         "name": "friday",
-        "execute": "Monday's lineup: Mazuu",
+        "execute": "Friday's lineup: Mazuu",
         "comment": "Nothing scheduled for this Friday!"
     },
     {
@@ -31,7 +31,7 @@
     },
     {
         "name": "sunday",
-        "comment": "Sundays's lineup: x, x, x, x, x",
+        "comment": "Sunday's lineup: x, x, x, x, x",
         "execute": "Nothing scheduled for this Sunday!"
     }
 ]
