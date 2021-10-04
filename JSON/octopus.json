@@ -1,37 +1,37 @@
 [
     {
         "name": "monday",
-        "execute": ">>> MON SCHEDULE (PT) >>>              Silver & Gold",
+        "execute": "Monday's lineup: Silver & Gold",
         "comment": "Nothing scheduled for this Monday!"
     },
     {
         "name": "tuesday",
-        "execute": ">>> TUES SCHEDULE (PT) >>>              Rui Tokyo",
+        "execute": "Tuesdays's lineup: Rui Tokyo",
         "comment": "Nothing scheduled for this Tuesday!"
     },
     {
         "name": "wednesday",
-        "execute": ">>> WED SCHEDULE (PT) >>>              Tyler Johnston & Alley Kay",
+        "execute": "Wednesday's lineup: Tyler Johnston & Alley Kay",
         "comment": "Nothing scheduled for this Wednesday!"
     },
     {
         "name": "thursday",
-        "execute": ">>> THUR SCHEDULE (PT) >>>              Sian & Idoru",
+        "execute": "Thursday's lineup: Sian & Idoru",
         "comment": "Nothing scheduled for this Thursday!"
     },
     {
         "name": "friday",
-        "execute": ">>> FRI SCHEDULE (PT) >>>              Mazuu",
+        "execute": "Monday's lineup: Mazuu",
         "comment": "Nothing scheduled for this Friday!"
     },
     {
         "name": "saturday",
-        "comment": ">>> SAT SCHEDULE (PT) >>>              x, x, x, x, x",
+        "comment": "Saturday's lineup: x, x, x, x, x",
         "execute": "Nothing scheduled for this Saturday!"
     },
     {
         "name": "sunday",
-        "comment": ">>> SUN SCHEDULE (PT) >>>              x, x, x, x, x",
+        "comment": "Sundays's lineup: x, x, x, x, x",
         "execute": "Nothing scheduled for this Sunday!"
     }
 ]
