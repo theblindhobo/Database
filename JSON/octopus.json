@@ -1,5 +1,10 @@
 [
     {
+        "name": "schedule",
+        "execute": "MON: Silver & Gold, TUE: Rui Tokyo, WED: Tyler Johnston & Alley Kay, THUR: Idoru, FRI: Mazuu",
+        "comment": "Nothing scheduled for this week!"
+    },
+    {
         "name": "monday",
         "execute": "Monday's lineup: Silver & Gold",
         "comment": "Nothing scheduled for this Monday!"
