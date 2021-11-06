@@ -214,11 +214,7 @@
     {
         "execute": "If you're a tier 3 sub and you see Sian or an Octopus show coming to your city, send @djsianofficial a direct message to claim your guestlist spot!",
         "name": "tier3"
-    },
-    {
-        "execute": "Most gifted subs this month will receive 'the' chalice from Sian! Currently @nurselalu is in the lead!",
-        "name": "subtember"
-    },
+    }
     {
         "execute": "Hiiii Kelly TwitchUnity",
         "name": "kelly"
@@ -226,9 +222,5 @@
     {
         "execute": "Follow Baroque on IG for more updates: https://www.instagram.com/baroque.la/",
         "name": "baroque"
-    },
-    {
-        "execute": "Denver! Nov 5th @ Bar Standard. Tickets on sale now: https://bit.ly/FirstFridaysxSian",
-        "name": "denver"
     }
 ]
