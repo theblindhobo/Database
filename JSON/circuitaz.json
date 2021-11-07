@@ -510,21 +510,13 @@
     {
         "execute": "Follow Circuit on Instagram: https://instagram.com/CircuitAZ",
         "name": "circuit ig"
-    },
-    {
-        "execute": "Join us as we bring Christian Smith for a wild night at Shady Park Tempe on September 25th! Grab your tickets now: https://www.seetickets.us/event/Christian-Smith/442651",
-        "name": "csmith"
-    },
-    {
-        "execute": "Join us as we bring Christian Smith for a wild night at Shady Park Tempe on September 25th! Grab your tickets now: https://www.seetickets.us/event/Christian-Smith/442651",
-        "name": "christian smith"
-    },
-    {
-        "execute": "Join us as we bring Christian Smith for a wild night at Shady Park Tempe on September 25th! Grab your tickets now: https://www.seetickets.us/event/Christian-Smith/442651",
-        "name": "cs"
-    },
+    }
     {
         "execute": "We are adjusting our livestream schedule to a monthly stream. Our residents will be starting to stream from their personal channels, so be sure to give them a follow! Our next Circuit stream will be October 2nd.",
         "name": "monthly"
+    },
+    {
+        "execute": "PowerUpL SabaPing",
+        "name": "nads"
     }
 ]
